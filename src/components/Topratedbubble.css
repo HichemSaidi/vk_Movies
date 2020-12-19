@@ -1,0 +1,13 @@
+
+.container #rowed{
+padding: 0;
+margin: 0;
+}
+#rowed{
+margin-top: 1em;
+text-align: left;
+color: white;
+}
+#rowed img{
+    width: 6em;
+}

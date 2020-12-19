@@ -1,0 +1,17 @@
+#rating-sec h1{ 
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+    border-bottom: solid 8px white;
+    padding: 0.25em;
+    font-size: 1.375rem;
+    padding-left: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    
+
+}
+
+.rated-sec-3{border: 1px solid #f9002b;
+
+}
