@@ -71,10 +71,10 @@ async getRandomMovies() {
           )
 
         return (
-            <div className="container ">
-          <div className="row">
-          {movies}                 
-          </div>
+          <div className="container-fluid" style={{width:"90%"}}>
+                <div className="row">
+                {movies}
+                </div>
             </div>
         )
     }

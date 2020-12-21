@@ -1,6 +1,12 @@
-#moviecard img{
-    width:100% ;
+
+#poster{
+   height:400px;
+    min-width: 100%;
+    background-color: bisque;
+    margin-bottom: 10px;
+    background-size: cover;
 }
+
 #moviecard{
     color: white;
     text-align: left;
@@ -21,6 +27,7 @@
     font-weight: 600!important;
     text-transform: uppercase!important;
     background-color: rgba(0,0,0,0);
+    align-self: flex-end;  
 }
 .btn-trailer:hover{
     color: #f9002b!important;

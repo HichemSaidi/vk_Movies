@@ -1,7 +1,7 @@
 
 #cover{
 width: 100%;
-height:60vh;
+height:40vh;
     background-color: orange;
     background-image: linear-gradient(180deg,rgba(0,0,0,0) 0%,#000000 100%),url(https://ali.sandbox.etdevs.com/divi/wp-content/uploads/sites/2/2019/12/theater-02.jpg);
     background-size: 100%;
@@ -20,7 +20,7 @@ height:60vh;
 
 }
 .sec-1 h1{
-font-size: 5em;
+font-size: 5vw;
 font-weight: 700;
 width: 100vh;
 
@@ -30,7 +30,7 @@ width: 100vh;
 }
 .sec-1 p {
     color:#f9002b;
-    font-size: 2vh;
+    font-size: 1vw;
     font-weight: 900;
     width: 100vh;
     letter-spacing: 2px;
